@@ -1,0 +1,33 @@
+• count()
+• strlen()
+• isset()
+• fopen()
+• fgets()
+• fclose()
+• echo()
+• print_r()
+• microtime()
+• round()
+• trim()
+
+/* for ($i = 0; $i < strlen($word); $i++) {
+                if ($word[0] == $buffer[$i]) {
+                    for ($i = 0; $i < strlen($word); $i++) {
+                        if ($word[1] == $buffer[$i]) {
+                            for ($i = 0; $i < strlen($word); $i++) {
+                                if ($word[2] == $buffer[$i]) {
+                                    for ($i = 0; $i < strlen($word); $i++) {
+                                        if($word[3] == $buffer[$i]){
+                                            for ($i = 0; $i < strlen($word); $i++) {
+                                                if($word[4] == $buffer[$i]){
+                                                    echo $buffer;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            } */
